@@ -4,8 +4,6 @@
 
 ## Build Status
 
-3.3.5
-:------------:
 [![3.3.5 Build Status](https://travis-ci.org/Customcoder/TrinityCore.svg?branch=master)](https://travis-ci.org/Customcoder/TrinityCore)
 
 ## Introduction
